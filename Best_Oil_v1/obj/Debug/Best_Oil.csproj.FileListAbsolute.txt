@@ -1,0 +1,10 @@
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\bin\Debug\Best_Oil.exe.config
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\bin\Debug\Best_Oil.exe
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\bin\Debug\Best_Oil.pdb
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.Form1.resources
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.Properties.Resources.resources
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.csproj.GenerateResource.cache
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.exe
+C:\Users\Murad\source\repos\Best_Oil\Best_Oil\obj\Debug\Best_Oil.pdb
